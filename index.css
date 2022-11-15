@@ -1,0 +1,104 @@
+#head{
+    text-align: center;
+    font-size: large;
+}
+
+div  {text-align: center;
+    /*padding: auto;
+    margin: auto;
+    border: 300; */
+}
+
+h1 {
+    background-color: brown;
+    color: aliceblue;
+    margin: auto;
+}
+
+.unoredr{
+    text-align: left;
+    display: inline-block;
+    margin: auto ;
+    list-style-type: disc;
+}
+
+.unoredr ul{
+    list-style-position: inside;
+    text-align: left;
+    list-style-type: circle;
+
+}
+
+.order{
+    text-align: left;
+    display: inline-block;
+    margin: auto;
+    
+
+}
+
+.order  ol {
+    list-style-position:inside;
+
+    color:#008000;
+    text-align: left;
+    list-style-type:lower-latin;
+
+}
+
+/* colors of the list alimnts(children)*/
+
+.R{
+     color: red;}
+
+.G{ 
+    color: gray;
+}
+.A{ 
+    color: aqua;
+}
+.B{
+    color: brown;
+}
+
+.Y{ 
+    color: yellow;
+}
+
+.O{ 
+    color: orange;
+}
+
+.P{ 
+    color: pink;
+}
+
+.BL{ 
+    color: black;
+}
+
+.PU{
+    color: purple;
+}
+
+/* elementa of the list as parenrs(like/dislike)*/
+
+#blue {
+    font-style: italic;
+    color: blue;
+}
+
+#red {
+    font-style: italic;
+    color: red;
+}
+
+#green{
+    color: #008000;
+    font-style: italic;
+}
+
+#sgreen{ 
+    color: #052b05;
+    font-style: italic;
+}
